@@ -1,0 +1,82 @@
+{
+  "q_001": {
+    "true_label": "acetone",
+    "top_k": [
+      {
+        "label": "acetone",
+        "score": 0.9326678012633381,
+        "ref_id": "ref_001"
+      },
+      {
+        "label": "isopropanol",
+        "score": 0.3643090302446712,
+        "ref_id": "ref_010"
+      },
+      {
+        "label": "ethanol",
+        "score": 0.3430478143920359,
+        "ref_id": "ref_002"
+      }
+    ]
+  },
+  "q_002": {
+    "true_label": "benzene",
+    "top_k": [
+      {
+        "label": "benzene",
+        "score": 0.9449713411978076,
+        "ref_id": "ref_003"
+      },
+      {
+        "label": "ammonia",
+        "score": 0.2187991796274148,
+        "ref_id": "ref_006"
+      },
+      {
+        "label": "water",
+        "score": 0.16253652016706777,
+        "ref_id": "ref_004"
+      }
+    ]
+  },
+  "q_003": {
+    "true_label": "co2",
+    "top_k": [
+      {
+        "label": "co2",
+        "score": 0.7373165516295555,
+        "ref_id": "ref_005"
+      },
+      {
+        "label": "ethanol",
+        "score": 0.25208885381359036,
+        "ref_id": "ref_002"
+      },
+      {
+        "label": "ammonia",
+        "score": 0.2508256684582814,
+        "ref_id": "ref_006"
+      }
+    ]
+  },
+  "q_004": {
+    "true_label": "formaldehyde",
+    "top_k": [
+      {
+        "label": "formaldehyde",
+        "score": 0.9182889772947684,
+        "ref_id": "ref_008"
+      },
+      {
+        "label": "acetone",
+        "score": 0.2751545089118645,
+        "ref_id": "ref_001"
+      },
+      {
+        "label": "ammonia",
+        "score": 0.16714819052195246,
+        "ref_id": "ref_006"
+      }
+    ]
+  }
+}
